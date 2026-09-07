@@ -180,7 +180,7 @@ export const content: Content = {
 
     special: {
       afterVideo: 'That was only the beginning.',
-      afterCta: 'Ready for 36 more wishes? ❤️',
+      afterCta: 'Ready for more wishes? ❤️',
     },
 
     wishesIntro: {
